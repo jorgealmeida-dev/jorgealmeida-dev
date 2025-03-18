@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Eu sou jorge Almeida desenvolvedor Front-End atualmente estou aprendendo e criando projetos com as seguintes tecnologias:
+Eu sou jorge Almeida "Atualmente, sou um desenvolvedor front-end em transição de carreira, com foco no estudo e aprimoramento das tecnologias HTML, CSS e JavaScript. Com paixão por tecnologia e design, meu objetivo é criar interfaces intuitivas e funcionais, combinando criatividade e habilidades técnicas para entregar experiências digitais de alta qualidade.":
 <b>
 <b>
 
