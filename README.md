@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 Eu sou jorge Almeida "Atualmente, sou um desenvolvedor front-end em transição de carreira, com foco no estudo e aprimoramento das tecnologias HTML, CSS e JavaScript. Com paixão por tecnologia e design, meu objetivo é criar interfaces intuitivas e funcionais, combinando criatividade e habilidades técnicas para entregar experiências digitais de alta qualidade.":
-<b>
-<b>
-
+<br>
+<br>
+<br>
 
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
 
