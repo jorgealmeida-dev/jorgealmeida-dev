@@ -1,19 +1,45 @@
 ## Hi there 👋
+## Welcome to MY world!
+Eae, só alegria?!
 
-Eu sou jorge Almeida "Atualmente, sou um desenvolvedor front-end em transição de carreira, com foco no estudo e aprimoramento das tecnologias HTML, CSS e JavaScript. Com paixão por tecnologia e design, meu objetivo é criar interfaces intuitivas e funcionais, combinando criatividade e habilidades técnicas para entregar experiências digitais de alta qualidade.":
-<br>
-<br>
+### 📚 Atualmente estou estudando:
 
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
+🔹 Java
+🔹 Python
+🔹 JavaScript
+🔹 HTML & CSS
 
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css">
+### 🤓 Habilidades em desenvolvimento:
 
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-java-script">
- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="logo-tipy-script">
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgealmeida-dev&show_icons=true&theme=cobalt)
- <br>
- <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
+### 🌎 Minhas redes:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticialeme-dev/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeticiaLemeHub)
+
+
+<div align="">
+  <h2>🛠 Estatísticas do GitHub</h2>
+
+  <!-- Estatísticas do GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=LeticiaLemeHub&show_icons=true&count_private=true&hide=prs&theme=transparent" alt="GitHub Stats">
+
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaLemeHub&layout=compact&theme=transparent" alt="Top Linguagens">
+
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeticiaLemeHub&theme=transparent" alt="GitHub Streak">
+  <img align="right" alt="Totoro" src="https://media.tenor.com/2PVH7hArX-0AAAAj/totoro-jumping.gif">
+</div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeticiaLemeHub/LeticiaLemeHub/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeticiaLemeHub/LeticiaLemeHub/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeticiaLemeHub/LeticiaLemeHub/output/github-contribution-grid-snake.svg">
+</picture>
 
 
