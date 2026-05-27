@@ -74,4 +74,4 @@ Sou estudante dedicada de desenvolvimento de software, com foco em Java, Python,
 
 ---
 
-<sub>Perfil criado com ❤️ por Letícia Leme</sub>
+<sub>Perfil criado com ❤️ por Jorge Almeida</sub>
